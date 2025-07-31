@@ -51,7 +51,7 @@ export default function HeroSection() {
         <img
           src="./phone.jpg"
           alt="Mobile dashboard"
-          className="w-full max-h-[679px]"
+          className="w-full lg:max-h-[679px] max-h-[400px]"
         />
       </div>
     </section>
